@@ -9,7 +9,7 @@ Add the following to your Gemfile
 === Authentication
 
 In order to use this client, an access token retrieved from Salesforce OAuth must be specified. See
-the [authetication documentation on developer.pardot.com](https://developer.pardot.com/kb/authentication/) for more information.
+the [authetication documentation on developer.pardot.com](https://developer.pardot.com/kb/authentication) for more information.
 
   require "ruby-pardot"
 
